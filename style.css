@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4ded8;
+  margin: 2rem;
+}
+
+h1, h2 {
+  color: #000000;
+}
+
+section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #faefeb;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: disc;
+  margin-left: 2rem;
+}
